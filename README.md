@@ -9,4 +9,4 @@ How to run the scripts?
 Requirements:
 1. The code can be run from Sciserver or local computers. 
 2. Users should install pyJHTDB package for accessing data from JHTDB. Details to install the package can be found in http://turbulence.pha.jhu.edu/help/python/
-3. To get full access to the JHTDB, please request authorisation token following the instructions on http://turbulence.pha.jhu.edu/authtoken.aspx.
+3. To get full access to the JHTDB, please request authorisation token following the instructions on http://turbulence.pha.jhu.edu/authtoken.aspx. The scripts can be run using the general identifier "edu.jhu.pha.turbulence.testing-201311" which has limited access to the database.
