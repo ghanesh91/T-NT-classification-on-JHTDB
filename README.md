@@ -5,3 +5,8 @@ Read Wu et al (2019) "Application of a self-organizing map to identify the turbu
 How to run the scripts?
 1. Run the script generate_training_data.ipynb - This code downloads the velocity and velocity gradient data at specified number of grid points from the JHTDB's Transitional turbulent boundary layer data. The data is stored in MATLAB's ".mat" file format.
 2. Run the script SOM_training.ipynb - This script does the SOM training and gives the weights associated with the input vector components. These weights can be used to perform T/NT classification on a given test data.
+
+Requirements:
+1. The code can be run from Sciserver or local computers. 
+2. Users should install pyJHTDB package for accessing data from JHTDB. Details to install the package can be found in http://turbulence.pha.jhu.edu/help/python/
+3. To get full access to the JHTDB, please request authorisation token following the instructions on http://turbulence.pha.jhu.edu/authtoken.aspx.
