@@ -1,4 +1,4 @@
-# T-NT-classification-on-JHTDB
+# T-NT-classification
 Apply SOM method to identify Turbulent/Non-Turbulent (T-NT) interface on JHTDB's transitional turbulent boundary layer. The code was used in JHU's Statistical Learning for Engineers course during Fall 2019.
 Read Wu et al (2019) "Application of a self-organizing map to identify the turbulent-boundary-layer interface in a transitional flow" to know in detail about the SOM method.
 
